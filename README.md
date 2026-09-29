@@ -1,7 +1,9 @@
 <h1> <p>Это справочник, созданный мной за долгие, одинокие годы обучения в старших и чуть-чуть средних классах и т.д. <br> Не советую переводить файл md в формат txt иначе почти все сломается. <br> <h2>Изначально этот справочник я делал для себя и делал его в средних и старших классах (спасибо большое онлайн справочнику - https://www.markdownlang.com. Он яросно боролся за мое создание). Я сделал его обширным потому что не знал куда податся. Что есть то есть. </h2>
-<h4><details>
-<summary>Не стоит сюда нажимать и испытывать судьбу</summary>
-А ведь я предупреждал. Но некоторые вещи я не могу писать так что пусть останется загадкой, что же я хотел сказать? Неважно </details></h4>
+<h4>
+<details>
+<a href="mailto:amagairei.dev@gmail.com">Поддержите бедноту новыми идеями которые я могу добавить (рабочая почта)</a>
+</details>
+</h4>
  </p> </h1>
 
 <table>
@@ -53,14 +55,14 @@
       - [📖 Книги](#-книги-6)
    - [🦀 1.8 Rust](#-18-rust)
       - [📖 Книги](#-книги-7)
-   - [🅺 1.9 Kotlin](#️-19-kotlin)
+   - [♨️ 1.9 Kotlin](#️-19-kotlin)
       - [📖 Книги](#-книги-8)
    - [🐘 1.10 PHP](#-110-php)
       - [📖 Книги](#-книги-9)
    - [🐹 1.11 Go](#-111-go)
       - [📖 Книги](#-книги-10)
-- [🗄️ 2. Базы данных](#-2-базы-данных)
-   - [📖 Книги](#-книги-по-бд)
+- [💾 2. Базы данных](#-2-базы-данных)
+   - [📖 Книги по БД](#-книги-по-бд)
    - [🧮 2.1 SQL](#-21-sql)
       - [📖 Книги](#-книги-11)
    - [🐘 2.2 PostgreSQL](#-22-postgresql)
@@ -73,7 +75,7 @@
       - [📖 Книги](#-книги-15)
    - [🔴 2.6 Redis](#-26-redis)
       - [📖 Книги](#-книги-16)
-- [🌐 3. Web-разработка](#️-3-web-разработка)
+- [🕸️ 3. Web-разработка](#️-3-web-разработка)
    - [🧱 3.1 HTML](#-31-html)
       - [📖 Книги](#-книги-17)
    - [🎨 3.2 CSS](#-32-css)
@@ -99,32 +101,60 @@
       - [📖 Книги](#-книги-27)
 - [⚙️ 5. DevOps и системные технологии](#️-5-devops-и-системные-технологии)
    - [🔀 5.1 Git / GitHub](#-51-git--github)
-      - [📖 Книги](#-51-git--github)
    - [🐧 5.2 Linux](#-52-linux)
-      - [📖 Книги](#-52-linux)
    - [🐳 5.3 Docker](#-53-docker)
-      - [📖 Книги](#-53-docker)
    - [🌐 5.4 Nginx](#-54-nginx)
-      - [📖 Книги](#-54-nginx)
    - [🔄 5.5 CI/CD](#-55-cicd)
-      - [📖 Книги](#-55-cicd)
-- [📖 Книги по общим темам](#-книги-по-общим-темам)
-- [🌍 6. Обучающие сайты](#-6-обучающие-сайты)
-- [💻 7. Платформы для практики написания кода](#-7-платформы-для-практики-написания-кода)
-- [🧑‍💻 8. Мой Cfg в VS Code](#-8-мой-cfg-в-vs-code-githab-acc-swap-problem-может-кому-то-будут-полезны-мои-настройки)
+   - [🚢 5.6 Kubernetes](#-56-kubernetes)
+      - [📖 Книги](#-книги-28)
+   - [📐 5.7 Terraform (IaC)](#-57-terraform-iac)
+      - [📖 Книги](#-книги-29)
+- [🧭 6. Направления IT 2026](#-6-направления-it-2026)
+   - [📈 Карта актуальности направлений](#-карта-актуальности-направлений)
+   - [🤖 6.1 ИИ и Data Science (AI/ML)](#-61-ии-и-data-science-aiml)
+      - [📖 Книги](#-книги-30)
+   - [🔐 6.2 Кибербезопасность (SecOps / AppSec)](#-62-кибербезопасность-secops--appsec)
+      - [📖 Книги](#-книги-31)
+   - [🍎 6.3 Swift и iOS](#-63-swift-и-ios)
+      - [📖 Книги](#-книги-32)
+   - [🐦 6.4 Flutter (Dart)](#-64-flutter-dart)
+      - [📖 Книги](#-книги-33)
+   - [📲 6.5 React Native](#-65-react-native)
+      - [📖 Книги](#-книги-34)
+   - [🔌 6.6 Системное программирование и IoT (Embedded)](#-66-системное-программирование-и-iot-embedded)
+      - [📖 Книги](#-книги-35)
+   - [🎮 6.7 GameDev и AR/VR](#-67-gamedev-и-arvr)
+      - [📖 Книги](#-книги-36)
+   - [🏢 6.8 Корпоративная автоматизация (1С / ERP / Low-Code)](#-68-корпоративная-автоматизация-1с--erp--low-code)
+      - [📖 Книги](#-книги-37)
+   - [🎯 6.9 UI/UX и продуктовый дизайн (AI-Driven)](#-69-uiux-и-продуктовый-дизайн-ai-driven)
+      - [📖 Книги](#-книги-38)
+   - [🥽 6.10 Пространственный и 3D дизайн (AR/VR)](#-610-пространственный-и-3d-дизайн-arvr)
+      - [📖 Книги](#-книги-39)
+   - [🧩 6.11 Дизайн-системы (Design Ops)](#-611-дизайн-системы-design-ops)
+      - [📖 Книги](#-книги-40)
+- [📚 Книги по общим темам](#-книги-по-общим-темам)
+   - [🧠 Математика и дискретная логика](#-математика-и-дискретная-логика)
+   - [💻 Логика и устройство компьютера](#-логика-и-устройство-компьютера)
+   - [📊 Алгоритмы и структуры данных](#-алгоритмы-и-структуры-данных)
+   - [🛠️ Инженерия и основы чистого кода](#️-инженерия-и-основы-чистого-кода)
+- [🌍 7. Обучающие сайты](#-7-обучающие-сайты)
+- [💻 8. Платформы для практики написания кода](#-8-платформы-для-практики-написания-кода)
+- [🧑‍💻 9. Мой Cfg в VS Code](#vscode-config)
    - [🧩 VS Code Extensions](#-vs-code-extensions)
    - [🎨 Тема](#-тема)
    - [⚙️ Настройки settings.json](#️-настройки-settingsjson)
-- [🌎 9. Сообщества/Community](#-9-сообществаcommunity)
+- [🌎 10. Сообщества/Community](#-10-сообществаcommunity)
    - [🛠 Глобальные Q&A Платформы и Форумы](#-глобальные-qa-платформы-и-форумы)
    - [💻 Web-Разработка & Frontend](#-web-разработка--frontend)
    - [⚙️ Backend-Разработка & Системная Архитектура](#️-backend-разработка--системная-архитектура)
    - [⚡ Low-Level & Системное Программирование](#-low-level--системное-программирование)
-   - [🔒 Сети, ИБ, DevOps](#-сети-информационная-безопасность-devops)
+   - [🔒 Сети, Информационная Безопасность, DevOps](#-сети-информационная-безопасность-devops)
    - [🗄 БД](#-бд)
    - [👥 Поиск Команды и Локальные Комьюнити](#-поиск-команды-и-локальные-комьюнити)
-- [🔗 10. Вспомогательные ссылки и инструменты](#-10-вспомогательные-ссылки-и-инструменты-maybe-add-smt-later)
-- [📚 11. Ресурсы для языков](#-11-ресурсы-для-языков-)
+   - [📜 Правила общения](#-правила-общения-этакая-минимальная-база)
+- [🔗 11. Вспомогательные ссылки и инструменты](#-11-вспомогательные-ссылки-и-инструменты-maybe-add-smt-later)
+- [📚 12. Ресурсы для языков](#-12-ресурсы-для-языков-)
    - [🌐 Web](#-web)
    - [🟨 JavaScript / TypeScript](#-javascript--typescript)
    - [⚛️ Frontend](#️-frontend)
@@ -134,9 +164,15 @@
    - [🔷 C#](#-c)
    - [🐹 Go](#-go)
    - [☕ Java](#-java)
+   - [🦀 Rust](#-rust)
+   - [🟣 Kotlin](#-kotlin)
+   - [🐘 PHP](#-php)
+   - [💎 Ruby](#-ruby)
+   - [🍎 Swift](#-swift)
    - [🐳 DevOps](#-devops)
-- [⚙️ 12. Расширения браузера](#️-12-расширения-браузера-семейство-chromium-движок-blink)
-- [📃 13. Казуальные правила для ускорения процесса обучения](#-13-казуальные-правила-для-ускорения-процесса-обучения)
+   - [🧪 Онлайн-среды](#-онлайн-среды)
+- [⚙️ 13. Расширения браузера](#️-13-расширения-браузера-семейство-chromium-движок-blink)
+- [📃 14. Казуальные правила для ускорения процесса обучения](#-14-казуальные-правила-для-ускорения-процесса-обучения)
 
 ---
 
@@ -898,6 +934,500 @@
 
 - [Ссылка](#)
 
+---
+
+## 🚢 5.6 Kubernetes
+
+> 📊 Из обзора «Облачная инфраструктура и DevOps»: индекс 90/100, приоритет Высокая. Перед Kubernetes стоит освоить [5.2 Linux](#-52-linux) и [5.3 Docker](#-53-docker)
+
+### <strong>RU</strong> Русскоязычные материалы
+
+- Слёрм -> [Сайт](https://slurm.io/) | [Блог на Хабре](https://habr.com/ru/companies/slurm/) — курсы и вебинары по Kubernetes, часть материалов бесплатная (актуальные потоки смотри на сайте)
+
+### <strong>EN</strong> Англоязычные материалы
+
+- TechWorld with Nana -> [Youtube](https://www.youtube.com/@TechWorldwithNana) | [Kubernetes Tutorial for Beginners (4 часа)](https://www.youtube.com/watch?v=X48VuDVv0do)
+
+- DevOps Directive -> [Youtube](https://www.youtube.com/@DevOpsDirective) | на канале есть «Complete Kubernetes Course — From BEGINNER to PRO»
+
+- freeCodeCamp.org -> [Youtube](https://www.youtube.com/@freecodecamp) | на канале ищи «Kubernetes Course - Full Beginners Tutorial»
+
+- Практика без установки: [Kubernetes Basics (официальный интерактивный туториал)](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Killercoda](https://killercoda.com/) — браузерные стенды с готовым кластером
+
+### 📖 Книги
+
+- Марко Лукша — «Kubernetes в действии» (Kubernetes in Action) — подробное объяснение устройства Kubernetes: поды, сервисы, деплойменты, тома и внутренняя кухня кластера.
+
+- Бренден Бёрнс, Джо Беда, Келси Хайтауэр — «Kubernetes: Up & Running» — компактное практическое введение от людей, стоявших у истоков проекта.
+
+- Бесплатная альтернатива: официальная документация [kubernetes.io/docs](https://kubernetes.io/docs/home/) — по сути открытая книга. Для тех, кто хочет разобраться совсем глубоко: [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) (ручная сборка кластера, не для новичков).
+
+---
+
+## 📐 5.7 Terraform (IaC)
+
+> 📊 Инфраструктура как код (IaC) — часть направления «Облачная инфраструктура и DevOps». Пригодится после [5.3 Docker](#-53-docker) и [5.5 CI/CD](#-55-cicd)
+
+### <strong>RU</strong> Русскоязычные материалы
+
+- Хабр -> [Статьи по Terraform](https://habr.com/ru/search/?q=Terraform&target_type=posts) — русскоязычные разборы лежат в основном в статьях, а не в видеокурсах
+
+### <strong>EN</strong> Англоязычные материалы
+
+- HashiCorp (официально) -> [Terraform Tutorials](https://developer.hashicorp.com/terraform/tutorials) | [Документация](https://developer.hashicorp.com/terraform/docs) — бесплатные пошаговые туториалы от создателей
+
+- OpenTofu -> [Сайт](https://opentofu.org/) — открытый форк Terraform, синтаксис практически тот же
+
+- TechWorld with Nana -> [Youtube](https://www.youtube.com/@TechWorldwithNana) | на канале есть отдельные видео по Terraform
+
+- freeCodeCamp.org -> [Youtube](https://www.youtube.com/@freecodecamp) | на канале ищи «Terraform Course»
+
+### 📖 Книги
+
+- Евгений Брикман — «Terraform: Up & Running» (Yevgeniy Brikman) — практическое введение в Terraform: состояние, модули, командная работа и деплой.
+
+- Скотт Винклер — «Terraform in Action» — разбор Terraform через реальные примеры инфраструктуры.
+
+- Бесплатная альтернатива: [HashiCorp Developer](https://developer.hashicorp.com/terraform/tutorials) — туториалы и документация полностью открыты.
+
+---
+
+# 🧭 6. Направления IT 2026
+
+<h2>Этот раздел собран по обзору «Актуальные IT и Дизайн направления (2026–2027)». Здесь лежат направления, которых не хватало в разделах 1–5. Web, Backend и DevOps уже описаны выше, на них ведут ссылки из таблицы. Индексы из таблицы — ориентир из обзора, а не истина в последней инстанции.</h2>
+
+## 📈 Карта актуальности направлений
+
+| Направление                            | Индекс | Приоритет        | Основной стек / инструменты                                  | Профессии будущего                                              | Где в справочнике                                                                                      |
+| -------------------------------------- | ------ | ---------------- | ------------------------------------------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Искусственный интеллект и Data Science | 98/100 | Критическая      | Python, C++, SQL, PyTorch, Hugging Face API, LangChain       | LLM Engineer, AI Agent Developer, ML Engineer, Data Engineer    | [6.1](#-61-ии-и-data-science-aiml)                                                                     |
+| Кибербезопасность (SecOps / AppSec)    | 94/100 | Критическая      | Python, Go, Rust, Bash, C, Linux, OWASP                      | AppSec Auditor, Cloud Security Engineer, Smart Contract Auditor | [6.2](#-62-кибербезопасность-secops--appsec)                                                           |
+| Облачная инфраструктура и DevOps       | 90/100 | Высокая          | Go, Python, Bash, Docker, Kubernetes, Terraform              | DevOps Engineer, Cloud Architect, SRE                           | [5. DevOps](#️-5-devops-и-системные-технологии), [5.6](#-56-kubernetes), [5.7](#-57-terraform-iac)      |
+| Продуктовый UI/UX и AI-дизайн          | 88/100 | Высокая          | Figma, Tokens Studio, Midjourney, Claude, Principle, Spline  | AI UI/UX Designer, Product Designer, Interaction Designer       | [6.9](#-69-uiux-и-продуктовый-дизайн-ai-driven), [6.11](#-611-дизайн-системы-design-ops)               |
+| Backend-разработка (Serverless / API)  | 86/100 | Высокая          | Go, Python, Java, Node.js, C#, PostgreSQL, Redis             | Backend Developer, Solution Architect, API Engineer             | [4. Backend](#️-4-backend), [2. Базы данных](#-2-базы-данных)                                           |
+| Мобильная разработка (Mobile Dev)      | 80/100 | Стабильная       | Swift, Kotlin, Dart (Flutter), TypeScript (React Native)     | iOS / Android Developer, Cross-platform Flutter Developer       | [6.3](#-63-swift-и-ios), [6.4](#-64-flutter-dart), [6.5](#-65-react-native), [1.9 Kotlin](#️-19-kotlin) |
+| Frontend-разработка (AI-интеграции)    | 76/100 | Стабильная       | TypeScript, JavaScript, React, Next.js, Vue.js, CSS          | Frontend Developer, Web UI/UX Engineer                          | [3. Web-разработка](#️-3-web-разработка)                                                                |
+| Пространственный и 3D дизайн (AR/VR)   | 74/100 | Умеренная        | Blender, Spline, Unity, Unreal Engine, Figma, Gravity Sketch | Spatial Designer, 3D Product Designer, AR Experience Designer   | [6.10](#-610-пространственный-и-3d-дизайн-arvr)                                                        |
+| Системный код и IoT (Embedded)         | 72/100 | Умеренная        | Rust, C, C++, ASM, Linux Kernel                              | Embedded Developer, Firmware Developer, Systems Engineer        | [6.6](#-66-системное-программирование-и-iot-embedded)                                                  |
+| Геймдев и AR/VR метавселенные          | 70/100 | Умеренная        | C++, C#, HLSL, Unreal Engine, Unity                          | Game Developer, AR/VR Interaction Engineer                      | [6.7](#-67-gamedev-и-arvr)                                                                             |
+| Корпоративная автоматизация (ERP / 1С) | 68/100 | Локально высокая | 1С, SQL, Java, Low-Code / No-Code платформы                  | 1С-разработчик, ERP-консультант, корпоративный интегратор       | [6.8](#-68-корпоративная-автоматизация-1с--erp--low-code)                                              |
+
+---
+
+## 🤖 6.1 ИИ и Data Science (AI/ML)
+
+> 📊 Индекс 98/100 · приоритет Критическая<br>
+> 🎯 Разработка ИИ-агентов, интеграция LLM API, дообучение нейросетей (Fine-Tuning), конвейеры данных (Data Engineering)<br>
+> ⬅️ Сначала: [1.1 Python](#-11-python) и [2.1 SQL](#-21-sql)
+
+### <strong>RU</strong> Русскоязычные материалы
+
+- Deep Learning School (МФТИ) -> [Сайт](https://dls.samcs.ru/) — бесплатная онлайн-школа по нейросетям (нужен Python и уверенная математика)
+
+- Open Data Science -> [mlcourse.ai](https://mlcourse.ai/) — открытый курс по машинному обучению от сообщества ODS
+
+- Школа анализа данных Яндекса -> [Сайт](https://shad.yandex.ru/) — бесплатная, но с отбором и заметно сложная; цель на будущее
+
+### <strong>EN</strong> Англоязычные материалы
+
+- Andrej Karpathy -> [Youtube](https://www.youtube.com/@AndrejKarpathy) | [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) — нейросети и GPT с нуля на Python
+
+- 3Blue1Brown -> [Youtube](https://www.youtube.com/@3blue1brown) | серия про нейросети на канале — визуальное объяснение, хорошо смотреть перед кодом
+
+- fast.ai -> [Practical Deep Learning for Coders](https://course.fast.ai/) — практический курс «сверху вниз»
+
+- Hugging Face -> [Learn](https://huggingface.co/learn) — бесплатные курсы по LLM, агентам и NLP
+
+- DeepLearning.AI (Andrew Ng) -> [Сайт](https://www.deeplearning.ai/) — курсы по ML и коротким практикам с LLM
+
+- Kaggle -> [Kaggle Learn](https://www.kaggle.com/learn) — мини-курсы и практика на реальных данных
+
+- Google -> [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+
+- Документация LLM API (чтобы встраивать модели в свои проекты) -> [Anthropic](https://docs.claude.com/) | [OpenAI](https://platform.openai.com/docs) | [LangChain](https://docs.langchain.com/)
+
+### 📖 Книги
+
+- Орельен Жерон — «Прикладное машинное обучение с помощью Scikit-Learn, Keras и TensorFlow» (Hands-On Machine Learning) — главный практический учебник по классическому ML и нейросетям.
+
+- Франсуа Шолле — «Глубокое обучение на Python» (Deep Learning with Python) — введение в глубокое обучение от автора Keras.
+
+- Андрей Бурков — «Машинное обучение без лишних слов» (The Hundred-Page Machine Learning Book) — компактный обзор основ ML на сотне страниц.
+
+- Уэс Маккинни — «Python и анализ данных» (Python for Data Analysis) — pandas и работа с данными; автор выложил свежее издание онлайн: [wesmckinney.com/book](https://wesmckinney.com/book/).
+
+- Себастьян Рашка — «Build a Large Language Model (From Scratch)» — как устроены большие языковые модели, шаг за шагом в коде.
+
+- Чип Хуен — «Designing Machine Learning Systems» и «AI Engineering» — как строить ИИ-системы для реального продукта, а не только обучать модели.
+
+- Бесплатная альтернатива: «Dive into Deep Learning» — открытый учебник с кодом: [d2l.ai](https://d2l.ai/).
+
+---
+
+## 🔐 6.2 Кибербезопасность (SecOps / AppSec)
+
+> 📊 Индекс 94/100 · приоритет Критическая<br>
+> 🎯 Защита приложений, аудит уязвимостей на ранних этапах кодинга (Security-as-Code), проверка смарт-контрактов<br>
+> ⬅️ Сначала: [5.2 Linux](#-52-linux), [1.6 Shell](#-16-shell) и [1.1 Python](#-11-python)<br>
+> ⚠️ Тренируйся только на легальных площадках (TryHackMe, Hack The Box, CTF) и на своих стендах. Проверка чужих систем без разрешения — это уже статья, а не учёба
+
+### <strong>RU</strong> Русскоязычные материалы
+
+- Codeby -> [Форум и сообщество](https://codeby.net/) — русскоязычное ИБ-сообщество, разборы и CTF
+
+- Хабр -> [Хаб «Информационная безопасность»](https://habr.com/ru/hubs/infosecurity/) — статьи и разборы на русском
+
+- В [разделе 8](#-8-платформы-для-практики-написания-кода) уже есть TryHackMe — отличная интерактивная точка входа, а подборка Awesome Hacking лежит в [разделе 11](#-11-вспомогательные-ссылки-и-инструменты-maybe-add-smt-later)
+
+### <strong>EN</strong> Англоязычные материалы
+
+- NetworkChuck -> [Youtube](https://www.youtube.com/@NetworkChuck) — сети и безопасность простым языком
+
+- David Bombal -> [Youtube](https://www.youtube.com/@davidbombal) — сети, Kali Linux, интервью с практиками
+
+- John Hammond -> [Youtube](https://www.youtube.com/@_JohnHammond) — разборы CTF и вредоносного ПО
+
+- The Cyber Mentor -> [Youtube](https://www.youtube.com/@TheCyberMentor) — этичный хакинг с нуля
+
+- LiveOverflow -> [Youtube](https://www.youtube.com/@LiveOverflow) — эксплуатация уязвимостей и низкоуровневая безопасность
+
+- IppSec -> [Youtube](https://www.youtube.com/@ippsec) — разборы машин с Hack The Box
+
+- Практика: [PortSwigger Web Security Academy](https://portswigger.net/web-security) | [Hack The Box](https://www.hackthebox.com/) | [OverTheWire](https://overthewire.org/wargames/) | [picoCTF](https://picoctf.org/) | [CryptoHack](https://cryptohack.org/) (криптография)
+
+- Стандарты: [OWASP Top 10](https://owasp.org/www-project-top-ten/) | [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) (намеренно дырявое приложение для тренировки) | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/)
+
+- Смарт-контракты: [Cyfrin Updraft](https://updraft.cyfrin.io/) | [Ethernaut](https://ethernaut.openzeppelin.com/) | [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+
+### 📖 Книги
+
+- Дафидд Штаттард, Маркус Пинто — «The Web Application Hacker's Handbook» — классика по безопасности веб-приложений и типичным уязвимостям.
+
+- Джон Эриксон — «Хакинг: искусство эксплойта» (Hacking: The Art of Exploitation) — как работают эксплойты на уровне памяти и ассемблера.
+
+- Джастин Зейтц — «Black Hat Python» — практика на Python: сети, перехват трафика, автоматизация.
+
+- Жан-Филипп Омассон — «Serious Cryptography» и Дэвид Вонг — «Real-World Cryptography» — криптография для практиков без лишней математики.
+
+- Андреас Антонопулос, Гэвин Вуд — «Mastering Ethereum» — основа для аудита смарт-контрактов; открытая версия: [github.com/ethereumbook](https://github.com/ethereumbook/ethereumbook).
+
+- Бесплатная альтернатива: [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) — короткие практические памятки по защите приложений.
+
+---
+
+## 🍎 6.3 Swift и iOS
+
+> 📊 Мобильная разработка: индекс 80/100 · приоритет Стабильная<br>
+> 🎯 Нативные быстрые приложения под iPhone и iPad<br>
+> 💻 Xcode работает только на macOS, поэтому для iOS-разработки понадобится Mac (или доступ к нему)<br>
+> 🤖 Нативный Android — это [1.9 Kotlin](#️-19-kotlin), кроссплатформа — [6.4 Flutter](#-64-flutter-dart) и [6.5 React Native](#-65-react-native)
+
+### <strong>RU</strong> Русскоязычные материалы
+
+- Swiftbook -> [Сайт](https://swiftbook.ru/) — русскоязычное сообщество и материалы по Swift и iOS
+
+- Хабр -> [Хаб iOS](https://habr.com/ru/hubs/ios/) — статьи и разборы на русском
+
+### <strong>EN</strong> Англоязычные материалы
+
+- Sean Allen -> [Youtube](https://www.youtube.com/@seanallen) — Swift, SwiftUI и iOS-разработка
+
+- Paul Hudson -> [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) — бесплатный пошаговый курс на 100 дней
+
+- Stanford CS193p -> [Сайт курса](https://cs193p.sites.stanford.edu/) — университетский курс по SwiftUI
+
+- Apple (официально) -> [Develop in Swift](https://developer.apple.com/tutorials/develop-in-swift/) | [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui)
+
+### 📖 Книги
+
+- «The Swift Programming Language» — официальная книга по языку от Apple, бесплатная: [docs.swift.org/swift-book](https://docs.swift.org/swift-book/). Ссылки на документацию Swift есть и в [разделе 12](#-12-ресурсы-для-языков-).
+
+- Пол Хадсон — «Hacking with Swift» — практические проекты от простого к сложному.
+
+- Big Nerd Ranch — «Swift Programming: The Big Nerd Ranch Guide» — последовательное введение в язык.
+
+---
+
+## 🐦 6.4 Flutter (Dart)
+
+> 📊 Мобильная разработка: индекс 80/100 · приоритет Стабильная<br>
+> 🎯 Одна кодовая база на Dart для iOS, Android, web и desktop<br>
+> ⬅️ Полезно знать основы ООП — например, по [1.4 Java](#-14-java) или [1.9 Kotlin](#️-19-kotlin)
+
+### <strong>RU</strong> Русскоязычные материалы
+
+- Хабр -> [Хаб Flutter](https://habr.com/ru/hubs/flutter/) — практические статьи и разборы на русском
+
+- Константин Кокорин — YouTube-канал с уроками Flutter на русском (ищи по имени в поиске YouTube)
+
+### <strong>EN</strong> Англоязычные материалы
+
+- Flutter (официальный канал) -> [Youtube](https://www.youtube.com/@flutterdev)
+
+- Code With Andrea -> [Youtube](https://www.youtube.com/@CodeWithAndrea) — Flutter, архитектура и Dart
+
+- The Net Ninja -> [Youtube](https://www.youtube.com/@NetNinja) — на канале есть плейлист Flutter для начинающих
+
+- Официально: [Flutter Docs](https://docs.flutter.dev/) | [Codelabs](https://docs.flutter.dev/codelabs) | [Dart Docs](https://dart.dev/) | [DartPad](https://dartpad.dev/) (Dart прямо в браузере)
+
+### 📖 Книги
+
+- Эрик Виндмилл — «Flutter in Action» — практическое введение во Flutter через создание приложения.
+
+- Kodeco — «Flutter Apprentice» и «Dart Apprentice» — последовательные учебники по Flutter и по языку Dart.
+
+- Бесплатная альтернатива: официальная документация [docs.flutter.dev](https://docs.flutter.dev/). Фреймворк меняется быстрее, чем выходят книги, так что документация надёжнее.
+
+---
+
+## 📲 6.5 React Native
+
+> 📊 Мобильная разработка: индекс 80/100 · приоритет Стабильная<br>
+> 🎯 Кроссплатформенные приложения на React и TypeScript<br>
+> ⬅️ Сначала: [3.3 React](#️-33-react) и [1.3 TypeScript](#-13-typescript)
+
+### <strong>RU</strong> Русскоязычные материалы
+
+- Русскоязычных материалов по React Native мало. Начни с [3.3 React](#️-33-react), а по самому React Native иди в английскую документацию — она понятная
+
+### <strong>EN</strong> Англоязычные материалы
+
+- Официально: [React Native Docs](https://reactnative.dev/) | [Expo Docs](https://docs.expo.dev/) — Expo сильно упрощает старт
+
+- The Net Ninja -> [Youtube](https://www.youtube.com/@NetNinja) | на канале есть курс по React Native
+
+- Academind -> [Youtube](https://www.youtube.com/@academind) | на канале есть курс по React Native
+
+- freeCodeCamp.org -> [Youtube](https://www.youtube.com/@freecodecamp) | на канале ищи «React Native Course»
+
+### 📖 Книги
+
+- Бонни Эйзенман — «Learning React Native» — введение в React Native для тех, кто уже знает React.
+
+- Надер Дабит — «React Native in Action» — практическое руководство по построению приложений.
+
+- Бесплатная альтернатива: [документация React Native](https://reactnative.dev/docs/getting-started) — по сути открытый учебник.
+
+---
+
+## 🔌 6.6 Системное программирование и IoT (Embedded)
+
+> 📊 Индекс 72/100 · приоритет Умеренная<br>
+> 🎯 Сверхнадёжный код для встроенных систем, умных устройств и медицинского оборудования; Rust уверенно теснит C++ благодаря безопасности памяти<br>
+> ⬅️ Сначала: [1.5 C](#-15-c), [1.7 C++](#-17-c) и [1.8 Rust](#-18-rust)<br>
+> 💡 Железо покупать не обязательно: в симуляторе [Wokwi](https://wokwi.com/) можно запускать проекты для Arduino, ESP32 и Raspberry Pi Pico прямо в браузере
+
+### <strong>RU</strong> Русскоязычные материалы
+
+- AlexGyver -> [Youtube](https://www.youtube.com/@AlexGyverShow) | [Сайт](https://alexgyver.ru/) — Arduino, микроконтроллеры и электроника на русском
+
+- Хабр -> [Статьи по Embedded](https://habr.com/ru/search/?q=embedded&target_type=posts) — разборы встраиваемых систем на русском
+
+### <strong>EN</strong> Англоязычные материалы
+
+- Ben Eater -> [Сайт](https://eater.net/) — как работают процессоры и компьютеры, собранные на макетной плате
+
+- Shawn Hymel -> [Youtube](https://www.youtube.com/@ShawnHymel) — Introduction to Embedded Systems и работа с микроконтроллерами
+
+- Официальная документация: [Arduino](https://docs.arduino.cc/) | [Raspberry Pi Pico](https://www.raspberrypi.com/documentation/microcontrollers/) | [ESP-IDF (ESP32)](https://docs.espressif.com/projects/esp-idf/) | [PlatformIO](https://platformio.org/)
+
+- Rust для встраиваемых систем: [The Embedded Rust Book](https://docs.rust-embedded.org/book/) | [Embedded Rust Bookshelf](https://docs.rust-embedded.org/)
+
+- Ядро Linux: [Kernel Newbies](https://kernelnewbies.org/) | [Документация ядра](https://docs.kernel.org/)
+
+### 📖 Книги
+
+- Элеция Уайт — «Making Embedded Systems» — как проектировать прошивки: от архитектуры до отладки на реальном железе.
+
+- Джонатан Коррбет и др. — «Linux Device Drivers» (LDD3) — классика по драйверам для Linux; свободно доступна: [lwn.net/Kernel/LDD3](https://lwn.net/Kernel/LDD3/).
+
+- Дерек Моллой — «Exploring Raspberry Pi» — практика с одноплатными компьютерами и подключением железа.
+
+- Бесплатная альтернатива: [The Embedded Rust Book](https://docs.rust-embedded.org/book/) — открытый учебник по Rust на микроконтроллерах.
+
+---
+
+## 🎮 6.7 GameDev и AR/VR
+
+> 📊 Индекс 70/100 · приоритет Умеренная<br>
+> 🎯 Игровые миры и интерактивный пространственный софт для гарнитур дополненной реальности на Unreal Engine и Unity<br>
+> ⬅️ Сначала: C# (см. [4.5 ASP.NET](#-45-aspnet) и [Metanit](https://metanit.com/sharp/)) для Unity, [1.7 C++](#-17-c) для Unreal Engine
+
+### <strong>RU</strong> Русскоязычные материалы
+
+- Metanit -> [Учебник по C#](https://metanit.com/sharp/) — основа для Unity на русском
+
+- Хабр -> [Хаб «Game Development»](https://habr.com/ru/hubs/gamedev/) — статьи и разборы на русском
+
+### <strong>EN</strong> Англоязычные материалы
+
+- Brackeys -> [Youtube](https://www.youtube.com/@Brackeys) — Unity и создание игр для начинающих
+
+- Code Monkey -> [Youtube](https://www.youtube.com/@CodeMonkeyUnity) — Unity, C# и практические проекты
+
+- Unreal Engine -> [Youtube](https://www.youtube.com/@UnrealEngine) | [Epic Developer Community Learning](https://dev.epicgames.com/community/learning) — официальные уроки
+
+- Unity (официально) -> [Unity Learn](https://learn.unity.com/) | [Документация](https://docs.unity3d.com/)
+
+- AR/VR: [Unity XR](https://docs.unity3d.com/Manual/XR.html) | [OpenXR](https://www.khronos.org/openxr/) | [Meta для разработчиков](https://developers.meta.com/) | [Apple visionOS](https://developer.apple.com/visionos/)
+
+- Графика и шейдеры (HLSL/GLSL): [The Book of Shaders](https://thebookofshaders.com/) | [Learn OpenGL](https://learnopengl.com/)
+
+### 📖 Книги
+
+- Роберт Нистром — «Game Programming Patterns» — паттерны проектирования именно для игр; открыта бесплатно: [gameprogrammingpatterns.com](https://gameprogrammingpatterns.com/).
+
+- Джейсон Грегори — «Game Engine Architecture» — как устроены игровые движки изнутри.
+
+- Джесси Шелл — «Геймдизайн. Как создать игру, в которую будут играть все» (The Art of Game Design) — основы игрового дизайна.
+
+- Джо Хокинг — «Unity in Action» — практическое введение в Unity через проекты.
+
+- Бесплатная альтернатива: [Learn OpenGL](https://learnopengl.com/) — открытый учебник по графике на C++.
+
+---
+
+## 🏢 6.8 Корпоративная автоматизация (1С / ERP / Low-Code)
+
+> 📊 Индекс 68/100 · приоритет Локально высокая<br>
+> 🎯 Поддержка и развитие систем учёта, автоматизация логистики и быстрая сборка интерфейсов без избыточного кода<br>
+> ⬅️ Пригодится знание [2.1 SQL](#-21-sql)
+
+### <strong>RU</strong> Русскоязычные материалы
+
+- Stepik -> [1С с нуля. Первые шаги в программировании](https://stepik.org/course/279107) — бесплатный текстовый мини-курс: справочники, документы, регистры и отчёт
+
+- 1С:ИТС -> [Портал](https://its.1c.ru/) — официальная база знаний и документация
+
+- Инфостарт -> [Сайт](https://infostart.ru/) — крупнейшее русскоязычное сообщество 1С-разработчиков: статьи, форум, готовые решения
+
+- 1C:Developer Network -> [1c-dn.com](https://1c-dn.com/) — материалы для разработчиков
+
+- YouTube: каналы «ТЕХПОДДЕРЖКА» и «itCODE» — там есть бесплатные курсы по 1С-программированию (ищи по названию)
+
+### <strong>EN</strong> Англоязычные материалы
+
+- Low-Code / No-Code: [Microsoft Power Apps](https://learn.microsoft.com/en-us/power-apps/) | [Appsmith](https://docs.appsmith.com/) | [n8n](https://docs.n8n.io/) (автоматизация процессов)
+
+- Открытые ERP для практики: [Odoo](https://www.odoo.com/documentation/) | [ERPNext](https://docs.erpnext.com/)
+
+### 📖 Книги
+
+- Радченко М. Г., Хрусталева Е. Ю. — «1С:Предприятие 8.3. Практическое пособие разработчика» — учебник с примерами построения конфигурации.
+
+- Кашаев С. М. — «1С:Предприятие 8. Учимся программировать на примерах» — практическое введение в программирование на платформе 1С.
+
+- Бесплатная альтернатива: [1С:ИТС](https://its.1c.ru/) и [Stepik-курс](https://stepik.org/course/279107) — открытые материалы для первого шага.
+
+---
+
+## 🎯 6.9 UI/UX и продуктовый дизайн (AI-Driven)
+
+> 📊 Индекс 88/100 · приоритет Высокая<br>
+> 🎯 Динамические интерфейсы с нейросетями, Prompt-дизайн, глубокое исследование пользовательского опыта (Product & CX Design)<br>
+> 🛠 Инструменты: Figma, [Tokens Studio](https://tokens.studio/), [Midjourney](https://docs.midjourney.com/), [Principle](https://principleformac.com/), [Spline](https://spline.design/)<br>
+> ⬅️ Полезно знать [3.1 HTML](#-31-html) и [3.2 CSS](#-32-css): дизайнер, понимающий вёрстку, ценится выше
+
+### <strong>RU</strong> Русскоязычные материалы
+
+- Хабр -> [Хаб «Дизайн»](https://habr.com/ru/hubs/design/) — статьи о UI/UX и продуктовом дизайне на русском
+
+- Figma -> [Справочный центр](https://help.figma.com/) — документация по программе
+
+### <strong>EN</strong> Англоязычные материалы
+
+- DesignCourse -> [Youtube](https://www.youtube.com/@DesignCourse) — UI/UX и веб-дизайн
+
+- Figma -> [Youtube](https://www.youtube.com/@figma) | [Learn Design](https://www.figma.com/resources/learn-design/) — официальные материалы
+
+- UX-основы: [Laws of UX](https://lawsofux.com/) | [Nielsen Norman Group](https://www.nngroup.com/) | [Material Design](https://m3.material.io/) | [Apple HIG](https://developer.apple.com/design/human-interface-guidelines/)
+
+- ИИ в интерфейсах: [Google People + AI Guidebook](https://pair.withgoogle.com/guidebook/) | [Guidelines for Human-AI Interaction (Microsoft)](https://www.microsoft.com/en-us/haxtoolkit/ai-guidelines/)
+
+- Prompt-дизайн: [Prompt Engineering (Anthropic)](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview) | [Learn Prompting](https://learnprompting.org/)
+
+### 📖 Книги
+
+- Стив Круг — «Не заставляйте меня думать» (Don't Make Me Think) — короткая классика об удобстве интерфейсов.
+
+- Дон Норман — «Дизайн привычных вещей» (The Design of Everyday Things) — основа понимания того, почему одни вещи удобны, а другие бесят.
+
+- Алан Купер — «Об интерфейсе» (About Face) — фундаментальная книга по проектированию интерфейсов.
+
+- Эрика Холл — «Just Enough Research» — как проводить исследования пользователей без лишней бюрократии.
+
+- Марти Каган — «Вдохновленные» (Inspired) — как создаются продукты, которые действительно нужны людям.
+
+- Бесплатная альтернатива: [Laws of UX](https://lawsofux.com/) и статьи [Nielsen Norman Group](https://www.nngroup.com/articles/).
+
+---
+
+## 🥽 6.10 Пространственный и 3D дизайн (AR/VR)
+
+> 📊 Индекс 74/100 · приоритет Умеренная<br>
+> 🎯 Трёхмерные интерфейсы для очков дополненной и виртуальной реальности, взаимодействие руками и взглядом<br>
+> ⬅️ Для разработки под гарнитуры смотри [6.7 GameDev и AR/VR](#-67-gamedev-и-arvr)
+
+### <strong>RU</strong> Русскоязычные материалы
+
+- Blender -> [Официальное руководство на русском](https://docs.blender.org/manual/ru/latest/) — документация по программе
+
+- Хабр -> [Статьи про 3D](https://habr.com/ru/search/?q=blender&target_type=posts) — разборы на русском
+
+### <strong>EN</strong> Англоязычные материалы
+
+- Blender Guru -> [Youtube](https://www.youtube.com/@blenderguru) — легендарные уроки Blender для новичков
+
+- Blender (официально) -> [Сайт](https://www.blender.org/) | [Blender Studio Training](https://studio.blender.org/training/) | [Manual](https://docs.blender.org/manual/en/latest/)
+
+- Spline -> [Сайт](https://spline.design/) | [Документация](https://docs.spline.design/) — 3D прямо в браузере
+
+- Gravity Sketch -> [Сайт](https://gravitysketch.com/) — 3D-дизайн в VR
+
+- Гайдлайны: [Apple: Designing for visionOS](https://developer.apple.com/design/human-interface-guidelines/designing-for-visionos) | [Meta Horizon Design](https://developers.meta.com/horizon/design/)
+
+### 📖 Книги
+
+- Джейсон Джеральд — «The VR Book: Human-Centered Design for Virtual Reality» — как проектировать VR так, чтобы не укачивало и было понятно.
+
+- Алан Крейг — «Understanding Augmented Reality» — основы AR и проектирования дополненной реальности.
+
+- Бесплатная альтернатива: [Blender Manual](https://docs.blender.org/manual/en/latest/) и [Blender Studio Training](https://studio.blender.org/training/) — бесплатные уроки и документация.
+
+---
+
+## 🧩 6.11 Дизайн-системы (Design Ops)
+
+> 📊 Часть направления «Продуктовый UI/UX и AI-дизайн» (индекс 88/100)<br>
+> 🎯 Единые библиотеки компонентов в Figma и в коде, чтобы приложение собиралось быстро и в одном стиле<br>
+> ⬅️ Пригодятся [3.2 CSS](#-32-css) и [3.3 React](#️-33-react)
+
+### <strong>RU</strong> Русскоязычные материалы
+
+- Хабр -> [Статьи про дизайн-системы](https://habr.com/ru/search/?q=дизайн-система&target_type=posts) — разборы реальных дизайн-систем на русском
+
+### <strong>EN</strong> Англоязычные материалы
+
+- Brad Frost -> [Atomic Design](https://atomicdesign.bradfrost.com/) — бесплатная онлайн-книга о построении дизайн-систем
+
+- Дизайн-токены: [Design Tokens Community Group](https://www.designtokens.org/) | [Tokens Studio Docs](https://docs.tokens.studio/)
+
+- Компоненты в коде: [Storybook](https://storybook.js.org/) | [shadcn/ui](https://ui.shadcn.com/) | [Tailwind CSS](https://tailwindcss.com/)
+
+- Примеры: [Design Systems Gallery](https://designsystems.surf/) — подборка дизайн-систем известных компаний
+
+- Kevin Powell -> [Youtube](https://www.youtube.com/@KevinPowell) — CSS-переменные и современная вёрстка (см. также [3.2 CSS](#-32-css))
+
+### 📖 Книги
+
+- Алла Холматова — «Design Systems» — как создавать и развивать дизайн-системы в команде.
+
+- Брэд Фрост — «Atomic Design» — подход «от атомов к страницам» для построения интерфейсов.
+
+- Бесплатная альтернатива: [Design Systems Handbook](https://www.designbetter.co/design-systems-handbook) — бесплатное руководство по дизайн-системам.
+
+---
+
 # 📚 Книги по общим темам
 
 <h2>Книги для расширения кругозора в области it</h2>
@@ -926,7 +1456,7 @@
 
 Стив Макконнелл — «Совершенный код» — масштабная энциклопедия разработки программного обеспечения от проектирования до тестирования. 📖 [Открыть PDF](#)
 
-# 🌍 6. Обучающие сайты
+# 🌍 7. Обучающие сайты
 
 <h2>На самом деле это очень топовая тема я 100% рекомендую то чем сам пользовался (По возможности лучше заходить в сообщества каждого сайта - там помогут решить проблемы как внутри сайта так и программирования в целом)</h2>
 
@@ -944,7 +1474,7 @@
 
 - Metanit - [Тык](https://metanit.com/)
 
-# 💻 7. Платформы для практики написания кода
+# 💻 8. Платформы для практики написания кода
 
 - [Exercism](https://exercism.org/) - Теория и сразу практика + умные люди которые посмотрят код и оценят и если надо помогут написать код
   ⭐⭐⭐⭐⭐ (5/5)
@@ -968,7 +1498,9 @@
 
 ---
 
-# 🧑‍💻 8. Мой Cfg в VS Code (githab acc swap problem. Может кому то будут полезны мои настройки)
+<a id="vscode-config"></a>
+
+# 🧑‍💻 9. Мой Cfg в VS Code (githab acc swap problem. Может кому то будут полезны мои настройки)
 
 ## 🧩 VS Code Extensions
 
@@ -1137,7 +1669,7 @@
 
 ---
 
-# 🌎 9. Сообщества/Community
+# 🌎 10. Сообщества/Community
 
 Это Каталог сообществ чатов и форумов созданный разработчиков, поиска ответов на сложные вопросы, код-ревью и совместной работы над projectsami.
 
@@ -1189,7 +1721,7 @@
    - `@rust discussions` / `@rustlang ru` — Сообщества по языку программирования Rust, безопасности и асинхронности.
    - `@pure c` — Чат, посвященный чистому языку Си (C) и системному программированию под UNIX/Windows.
 - Reddit:
-   - [r/cpp questions](https://www.reddit.com/r/cpp questions/) — База вопросов и ответов по C++ любого уровня сложности.
+   - [r/cpp_questions](https://www.reddit.com/r/cpp_questions/) — База вопросов и ответов по C++ любого уровня сложности.
 
 ---
 
@@ -1237,11 +1769,11 @@
 2. Задавайте вопрос правильно: Укажите, что вы пытаетесь сделать, какой результат ожидали, какой получили и приложите полный текст ошибки .
 3. Уважайте чужое время: Не пишите «Привет, кто поможет с Python?». Задавайте вопрос сразу в первом сообщении. Это называется - Dont-Ask-To-Ask -> [Тык](https://dontasktoask.com/ru/).
 
-- P.S Есть полный список с ним можно ознакомится <b>Русско-язычное </b> [тута](https://proglib.io/p/26-pravil-effektivnogo-obshchenie-dlya-razrabotchikov-2023-04-18) и <b>Англо-язычное </b> [тута](https://github.com/valdezm/awesome-communication)
+- P.S Есть полный список с ним можно ознакомится Русско-язычное </b> [тута](https://proglib.io/p/26-pravil-effektivnogo-obshchenie-dlya-razrabotchikov-2023-04-18) и Англо-язычное </b> [тута](https://github.com/valdezm/awesome-communication)
 
 ---
 
-# 🔗 10. Вспомогательные ссылки и инструменты (Maybe add smt later...)
+# 🔗 11. Вспомогательные ссылки и инструменты (Maybe add smt later...)
 
 ## 🔴 Раздел с проектами, которые нужны для improve себя как программиста
 
@@ -1273,7 +1805,7 @@
 
 ## 🔵 Нашел у себя лист из 500+ программ для повседнего использования но пока что очень лень их просматривать каждый
 
-# 📚 11. Ресурсы для языков :???
+# 📚 12. Ресурсы для языков :???
 
 ## 🌐 Web
 
@@ -1583,23 +2115,23 @@
 
 ## 🧪 Онлайн-среды
 
-- Compiler Explorer -> [Тык](<[https://godbolt.org/](https://godbolt.org/)>) — анализ и сравнение машинного кода C/C++, Rust, Go, Java и другие языки
+- Compiler Explorer -> [Тык](https://godbolt.org/) — анализ и сравнение машинного кода C/C++, Rust, Go, Java и другие языки
 
-- OnlineGDB -> [Тык](<[https://www.onlinegdb.com/](https://www.onlinegdb.com/)>) — компиляция и отладка программ и пошаговое выполнение кода
+- OnlineGDB -> [Тык](https://www.onlinegdb.com/) — компиляция и отладка программ и пошаговое выполнение кода
 
-- JDoodle -> [Тык](<[https://www.jdoodle.com/](https://www.jdoodle.com/)>) — быстрое выполнение небольших программ поддержка множества языков
+- JDoodle -> [Тык](https://www.jdoodle.com/) — быстрое выполнение небольших программ поддержка множества языков
 
-- OneCompiler -> [Тык](<[https://onecompiler.com/](https://onecompiler.com/)>) — онлайн-запуск кода, множество языков, SQL и работа с базами данных
+- OneCompiler -> [Тык](https://onecompiler.com/) — онлайн-запуск кода, множество языков, SQL и работа с базами данных
 
-- Replit -> [Тык](<[https://replit.com/](https://replit.com/)>) — полноценная облачная IDE; создание проектов из нескольких файлов, запуск и совместная разработка
+- Replit -> [Тык](https://replit.com/) — полноценная облачная IDE; создание проектов из нескольких файлов, запуск и совместная разработка
 
-- Programiz -> [Тык](<[https://www.programiz.com/](https://www.programiz.com/)>) — быстрые эксперименты и обучение, Python, JavaScript, TypeScript, C/C++, Java, Go, Rust, SQL и другие языки
+- Programiz -> [Тык](https://www.programiz.com/) — быстрые эксперименты и обучение, Python, JavaScript, TypeScript, C/C++, Java, Go, Rust, SQL и другие языки
 
-- Wandbox -> [Тык](<[https://wandbox.org/](https://wandbox.org/)>) — эксперименты с компилируемыми языками C++, C, Rust, Go и другие языки
+- Wandbox -> [Тык](https://wandbox.org/) — эксперименты с компилируемыми языками C++, C, Rust, Go и другие языки
 
 ---
 
-# ⚙️ 12. Расширения браузера (Семейство Chromium (движок Blink))
+# ⚙️ 13. Расширения браузера (Семейство Chromium (движок Blink))
 
 ## P.S (Искать аналоги для...) </br> 1) Семейство Mozilla Firefox (движок Gecko) </br> 2) Семейство Apple Safari (движок WebKit)
 
@@ -1621,7 +2153,7 @@
 
 - The Tab Suspender ->[Тык](https://chromewebstore.google.com/detail/the-tab-suspender/blppipbokojojjkpkccbgcilkolfpalm)
 
-# 📃 13. Казуальные правила для ускорения процесса обучения
+# 📃 14. Казуальные правила для ускорения процесса обучения
 
 - 1)Первым делом надо определится с логикой программирования.
 - 2)Вторым делом надо определится с областью твоей работы/учебы.
